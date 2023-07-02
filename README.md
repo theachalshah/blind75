@@ -18,6 +18,15 @@
 
 167. Two Sum II - Input Array Is Sorted - https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/submissions/982225285/
 
+121. Best Time to Buy and Sell Stock - https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/984447596/
+
+20. Valid Parentheses - https://leetcode.com/problems/valid-parentheses/submissions/984465078/
+
+
+
+
+
+
 
 
 
