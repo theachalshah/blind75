@@ -22,6 +22,15 @@
 
 20. Valid Parentheses - https://leetcode.com/problems/valid-parentheses/submissions/984465078/
 
+238. Product of Array Except Self - https://leetcode.com/problems/product-of-array-except-self/submissions/985812667/
+
+3. Longest Substring Without Repeating Characters - https://leetcode.com/problems/longest-substring-without-repeating-characters/submissions/985874333/
+
+
+
+
+
+
 
 
 
